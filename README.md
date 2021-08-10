@@ -11,3 +11,7 @@ The second map contains the clusters of data using the KMeans ML algorithm.
 To view the jupyter notebook on IBM Cloud, visit
 
 https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/3bca3e95-f61f-4487-b9b0-8cabf318cd5d/view?access_token=b63697b0c089876914389df241818215015389acba36cf33a8265feb7855c579
+
+
+### Credits
+To IBM Data Science Specialization course in Coursera
